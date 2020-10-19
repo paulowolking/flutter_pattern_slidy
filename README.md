@@ -1,6 +1,6 @@
 # flutter_pattern_slidy
 
-A new Flutter project.
+Utilizando slidy para automatização de scripts; flutter_modular; mobx; baixo acoplamento com a separação em módulos;
 
 ## Getting Started
 
